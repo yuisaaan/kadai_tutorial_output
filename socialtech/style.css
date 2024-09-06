@@ -20,6 +20,13 @@ p{
   display:flex;
   justify-content:space-between;
  }
+
+ /*ナビゲーションのレイアウト*/
+ #nav-pc{
+  font-saize:14px;
+  padding-top:15px;
+ }
+ 
 /*ナビゲーションのリンクの装飾設定*/
 #nav-pc > a{
   text-decoration:none;
